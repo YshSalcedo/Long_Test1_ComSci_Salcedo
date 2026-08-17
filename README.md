@@ -36,3 +36,7 @@ There are 27 loose notebooks
 Name: Ysh Salcedo
 
 Section: 8-Sampaguita
+
+## Repository Link
+
+https://github.com/YshSalcedo/Long_Test1_ComSci_Salcedo
